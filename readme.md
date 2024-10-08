@@ -27,7 +27,7 @@ Hi, I'm Rishabh Malav.
 
 - :seedling: Exploring and learning about Docker.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-malav-70756024a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RishabhMalav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-malav-70756024a/)
 
 ---
 
